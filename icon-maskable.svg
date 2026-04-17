@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Full bleed background for maskable icon safe zone -->
+  <rect width="512" height="512" fill="#0f0f1a"/>
+  <circle cx="256" cy="256" r="200" fill="#6c63ff" opacity="0.22"/>
+  <path d="M288 130v162.6A80 80 0 1 0 320 352V178h64V130H288z" fill="#e0e0ff"/>
+</svg>
