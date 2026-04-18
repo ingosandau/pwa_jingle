@@ -1,7 +1,7 @@
 {
-  "name": "Jingle Player",
-  "short_name": "Jingle",
-  "description": "Play a jingle with a single button press.",
+  "name": "Sascha's Nipples",
+  "short_name": "Nipples",
+  "description": "Three configurable sound buttons.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f0f1a",

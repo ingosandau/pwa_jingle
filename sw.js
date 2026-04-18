@@ -1,4 +1,4 @@
-const CACHE = 'jingle-v1';
+const CACHE = 'nipples-v2';
 const ASSETS = [
   './index.html',
   './manifest.json',
